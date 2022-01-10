@@ -70,25 +70,6 @@ Supports customizing:
 
 [EKS node group deployment](03_eks_node_group.tf)
 
-
-### EKS Node group
-
-Source:
-https://github.com/mskender/aws-terraform-eks-node-group
-
-Launch additional EKS autoscaling node groups via this module.
-
-Supports customizing:
-
-- autoscaling limits
-- capacity type
-- instancxe types
-- taints
-- labels
-
-
-[EKS node group deployment](03_eks_node_group.tf)
-
 ## Kubernetes deployments
 
 ### Karpenter
